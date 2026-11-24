@@ -27,7 +27,7 @@ Web app to manage hiring in one place: job posts, applications, interviews, offe
 | # | Name | GitHub | Branch |
 |---|---|---|---|
 | 1 | Deep Lambhade  | [@VRDeep101](https://github.com/VRDeep101) | main |
-| 2 | Harinee M | [@<harinee-m>](https://github.com/harinee-m) | dev/harinee-m |
+| 2 | Harinee M | [@harinee-m](https://github.com/harinee-m) | dev/harinee-m |
 | 3 | <Name> | [@<username>](https://github.com/<username>) | dev/<username> |
 | 4 | <Name> | [@<username>](https://github.com/<username>) | dev/<username> |
 | 5 | <Name> | [@<username>](https://github.com/<username>) | dev/<username> |
